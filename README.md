@@ -70,6 +70,15 @@
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
+
+### 🌟 Combined Contributions Across All Accounts
+
+<p align="center">
+<img src="https://img.shields.io/badge/Total_Repositories-50+-2E9EF7?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Years_Active-6+-00C853?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Primary_Language-JavaScript/TypeScript-F7DF1E?style=for-the-badge&logo=javascript" />
+</p>
+
   
 ### 📈 Account - @md-saket
 <p><img src="https://nirzak-streak-stats.vercel.app/?user=md-saket&theme=merko&hide_border=true"/></p>
@@ -127,13 +136,6 @@
 </p>
 
 
-### 🌟 Combined Contributions Across All Accounts
-
-<p align="center">
-<img src="https://img.shields.io/badge/Total_Repositories-50+-2E9EF7?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Years_Active-6+-00C853?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Primary_Language-JavaScript/TypeScript-F7DF1E?style=for-the-badge&logo=javascript" />
-</p>
 
 
 ---
