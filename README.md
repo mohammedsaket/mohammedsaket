@@ -19,7 +19,7 @@
 - 💡 Specialized in **React, Next.js, TypeScript** and AI-powered interfaces
 - 🏗️ Expert in building **design systems, micro-frontends**, and **enterprise-grade UIs**
 - 🌍 Based in **Pune, India** | Previously worked **on-site in London, UK**
-- 📫 Reach me: **mohammedsaket1@gmail.com**
+- 📫 Reach me: **saket.connect@gmail.com**
 
 ---
 
