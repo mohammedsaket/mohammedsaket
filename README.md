@@ -79,17 +79,14 @@
 <img src="https://img.shields.io/badge/Primary_Language-JavaScript/TypeScript-F7DF1E?style=for-the-badge&logo=javascript" />
 </p>
 
+
+ <img src="https://ghchart.rshah.org/md-saket" alt="md-saket contributions" />
+  <img src="https://ghchart.rshah.org/mdsaket-dev" alt="mdsaket-dev contributions" />
+  <img src="https://ghchart.rshah.org/mohammedsaket" alt="mohammedsaket contributions" /> 
   
-### 📈 Account - @md-saket
-<p><img src="https://nirzak-streak-stats.vercel.app/?user=md-saket&theme=merko&hide_border=true"/></p>
+<table align="center"> <tr> <th align="center">@md-saket</th> <th align="center">@mdsaket-dev</th> <th align="center">@mohammedsaket</th> </tr> <tr> <td align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=md-saket&theme=merko&hide_border=true"/> </td> <td align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mdsaket-dev&theme=radical&hide_border=true"/> </td> <td align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mohammedsaket&theme=tokyonight&hide_border=true" alt="mohammedsaket's streak"/> </td> </tr> </table>
+  
 
-### 📈 Account - @mdsaket-dev
-<p><img src="https://nirzak-streak-stats.vercel.app/?user=mdsaket-dev&theme=radical&hide_border=true"/></p>
-
-### 📈 Account - @mohammedsaket
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammedsaket&theme=tokyonight&hide_border=true" alt="mohammedsaket's streak"/>
-</p>
 
 
 ---
